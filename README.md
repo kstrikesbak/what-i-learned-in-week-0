@@ -42,6 +42,19 @@ Here are some key features that are worth mentioning:
 
 #### `mv (moves chosen file(s) to chosen place )`
 
+___
+
+## `HOW I SEND THIS FILE TO GITHUB` 
+
+1) I made a directory called what-i-learned-in-week-0 (`mkdir what-i-learned-in-week-0` )
+2) I changed to the directory "what-i-learned-in-week-0" (`cd what-i-learned-in-week-0`)
+3) Create a README.md file in the directory (`touch README.md`) 
+4) Open the README.md file in Visual Studio Code (`code README.md`)
+5) Use the command `git init` to convert the README.md file into an invisible git file 
+6) Then I let git know about the file I intend to commit by using the command `git add README.md`
+7) I then used the commit command `git commit -m "first commit"`. The m is a flag that stands for message. It is very important to use a message as it differentiates this commit to all future commits. 
+8) Get the empty README file to Github using using the command `git remote add origin https://github.com/kstrikesbak/what-i-learned-in-week-0.git`
+9) Then tell git hub where to send the what-learned-in-week-0 repo by using the command `git push -u origin master`
 
 
 
