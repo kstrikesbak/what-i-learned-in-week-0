@@ -2,7 +2,7 @@
 
 ## `The Terminal` 
 
-**The terminal is a way of getting your computer to do what you want by using the command line. It is an efficient way of instructing files and directories to move, change, delete, add, copy and so on.**
+**The `terminal` is a way of getting your computer to do what you want by using the command line. It is an efficient way of instructing files and directories to move, change, delete, add, copy and so on. `BASH` is the language used to communicate with the `terminal`.**
 
 Here are some key features that are worth mentioning:
 
