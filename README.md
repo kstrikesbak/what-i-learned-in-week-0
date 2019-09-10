@@ -10,7 +10,6 @@ Here are some key features that are worth mentioning:
 
 
 
-
 #### `ls -a (Lists files in the current directory with hidden files)`
 
 
@@ -55,6 +54,14 @@ ___
 7) I then used the commit command `git commit -m "first commit"`. The m is a flag that stands for message. It is very important to use a message as it differentiates this commit to all future commits. 
 8) Get the empty README file to Github using using the command `git remote add origin https://github.com/kstrikesbak/what-i-learned-in-week-0.git`
 9) Then tell git hub where to send the what-learned-in-week-0 repo by using the command `git push -u origin master`
+
+## `MARKDOWN` 
+
+Markdown is a simple text to HTML conversion tool. It is designed to make your life a little bit easier. Markdown is very intuitive because the markdown characters look like the formatted results. Markdown also makes text much easier to read. 
+
+For example, `# Markdown is great` would equate to `<h1>Markdown is great</h1>` . It goes up to `#6` which is compliments the smallest heading of `<h6>Hi!</h6>` that HTML offers!
+
+The simplicity is great! There are many other features that make markdown a great alternative for emails, presentations and so on..
 
 
 
